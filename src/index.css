@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.img-section{
+  width: 400px;
+}
+
+.buttton-part{
+  width: 360px;
+}
